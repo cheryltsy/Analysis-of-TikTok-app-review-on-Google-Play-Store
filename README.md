@@ -2,12 +2,12 @@ This project focuses on analyzing user reviews from the TikTok app available on 
 
 Features
 
-Sentiment Analysis: Utilizes the VADER sentiment analysis tool to categorize reviews into positive, negative, and neutral sentiments.
+- Sentiment Analysis: Utilizes the VADER sentiment analysis tool to categorize reviews into positive, negative, and neutral sentiments.
 
-Data Cleaning: Implements data preprocessing steps to clean and prepare the text data for analysis.
+- Data Cleaning: Implements data preprocessing steps to clean and prepare the text data for analysis.
 
-Data Visualization: Generates visualizations such as word clouds and pie charts to present the sentiment distribution and highlight frequently mentioned terms.
+- Data Visualization: Generates visualizations such as word clouds and pie charts to present the sentiment distribution and highlight frequently mentioned terms.
 
-Jupyter Notebook: The project is structured in a Jupyter Notebook for easy readability and interaction.
+- Jupyter Notebook: The project is structured in a Jupyter Notebook for easy readability and interaction.
 
-WordCloud: To create visual representations of frequently mentioned words in reviews.
+- WordCloud: To create visual representations of frequently mentioned words in reviews.
